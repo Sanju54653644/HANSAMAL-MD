@@ -39,7 +39,7 @@ try {
     url: videoInfo.thumbnail,
   },
   caption: `
-╭──═❮ *HANSAMAL-MD YouTube Player* ✨ ❯═─┈•
+╭──═❮ *𝑹𝒂𝒎_𝑪𝒉𝒂𝒓𝒂𝒏_𝑴𝑫 YouTube Player* ✨ ❯═─┈•
 │✑ *Title:* ${videoInfo.title}
 │✑ *duration:* ${videoInfo.timestamp}
 │✑ *Uploaded* ${videoInfo.ago}
@@ -82,7 +82,7 @@ try {
     url: firstVideo.thumbnail,
   },
   caption: `
-╭──═❮ *HANSAMAL-MD  YouTube Player* ✨ ❯═─┈•
+╭──═❮ *𝑹𝒂𝒎_𝑪𝒉𝒂𝒓𝒂𝒏_𝑴𝑫  YouTube Player* ✨ ❯═─┈•
 │✑ *Title:* ${firstVideo.title}
 │✑ *duration:* ${firstVideo.timestamp}
 │✑ *Uploaded* ${firstVideo.ago}
